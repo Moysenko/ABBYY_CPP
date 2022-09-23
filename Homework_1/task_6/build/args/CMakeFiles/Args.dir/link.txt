@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libArgs.a CMakeFiles/Args.dir/args.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libArgs.a

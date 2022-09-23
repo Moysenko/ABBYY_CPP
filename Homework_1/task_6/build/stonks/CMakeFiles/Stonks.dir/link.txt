@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libStonks.a CMakeFiles/Stonks.dir/stocks.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libStonks.a

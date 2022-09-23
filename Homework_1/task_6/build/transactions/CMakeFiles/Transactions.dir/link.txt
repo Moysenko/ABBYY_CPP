@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libTransactions.a CMakeFiles/Transactions.dir/transactions.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libTransactions.a
