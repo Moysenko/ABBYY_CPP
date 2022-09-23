@@ -1,0 +1,14 @@
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/CMakeFiles/edit_cache.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/CMakeFiles/rebuild_cache.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/args/CMakeFiles/Args.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/args/CMakeFiles/edit_cache.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/args/CMakeFiles/rebuild_cache.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/stonks/CMakeFiles/Stonks.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/stonks/CMakeFiles/edit_cache.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/stonks/CMakeFiles/rebuild_cache.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/transactions/CMakeFiles/Transactions.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/transactions/CMakeFiles/edit_cache.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/transactions/CMakeFiles/rebuild_cache.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/main/CMakeFiles/Main.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/main/CMakeFiles/edit_cache.dir
+/Users/moysenko/Study/CPP/Homework_1/task_6/build/main/CMakeFiles/rebuild_cache.dir
