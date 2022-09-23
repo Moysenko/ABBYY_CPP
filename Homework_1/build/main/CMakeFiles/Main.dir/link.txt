@@ -1,0 +1,1 @@
+/usr/bin/g++     CMakeFiles/Main.dir/main.cpp.o  -o Main  ../args/libArgs.a ../stonks/libStonks.a ../transactions/libTransactions.a ../args/libArgs.a ../stonks/libStonks.a 

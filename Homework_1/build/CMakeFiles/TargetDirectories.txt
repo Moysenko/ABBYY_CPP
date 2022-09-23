@@ -1,0 +1,14 @@
+/home/apollo/Study/CPP/Homework_1/build/CMakeFiles/rebuild_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/CMakeFiles/edit_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/args/CMakeFiles/rebuild_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/args/CMakeFiles/edit_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/args/CMakeFiles/Args.dir
+/home/apollo/Study/CPP/Homework_1/build/stonks/CMakeFiles/rebuild_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/stonks/CMakeFiles/edit_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/stonks/CMakeFiles/Stonks.dir
+/home/apollo/Study/CPP/Homework_1/build/transactions/CMakeFiles/rebuild_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/transactions/CMakeFiles/edit_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/transactions/CMakeFiles/Transactions.dir
+/home/apollo/Study/CPP/Homework_1/build/main/CMakeFiles/rebuild_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/main/CMakeFiles/edit_cache.dir
+/home/apollo/Study/CPP/Homework_1/build/main/CMakeFiles/Main.dir

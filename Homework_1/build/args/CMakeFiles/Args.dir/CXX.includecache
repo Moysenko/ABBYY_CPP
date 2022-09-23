@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/apollo/Study/CPP/Homework_1/args/args.cpp
+args.hpp
+/home/apollo/Study/CPP/Homework_1/args/args.hpp
+
+/home/apollo/Study/CPP/Homework_1/args/args.hpp
+fstream
+-
+string
+-
+
