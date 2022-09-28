@@ -102,13 +102,18 @@ std::ostream& operator<<(
 bool Transaction::operator<(const Transaction& other) const {
     if (stocks_id < other.stocks_id) {
         return true;
-    }
+    } else if (stocks_id == other.stocks_id) {
+        auto first_sell_id = sell_operation_id.value_or(INT32_MAX);
+        auto second_sell_id = other.sell_operation_id.value_or(INT32_MAX);
 
-    if (!sell_operation_id || !other.sell_operation_id) {
-        return false;
-    }
+        if (first_sell_id < second_sell_id) {
+            return true;
+        } else if (first_sell_id == second_sell_id) {
+            return buy_operation_id < other.buy_operation_id;
+        }
+    } 
 
-    return *sell_operation_id < *other.sell_operation_id;
+    return false;
 }
 
 std::vector<transactions::Transaction> GetTransactionsFromOperations(
