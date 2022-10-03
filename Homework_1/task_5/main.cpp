@@ -9,6 +9,8 @@ class Prism {
   double Volume() const {
     return Square() * height_;
   }
+ 
+  virtual ~Prism() {}
 
  private:
   double height_;
@@ -19,9 +21,11 @@ class Box : public  Prism {
   Box(double height, double base)
     : Prism(height), base_{base} {}
 
-  virtual double Square() const {
+  virtual double Square() const override {
     return base_ * base_;
   }
+ 
+  ~Box() override {}
 
  private:
   double base_;
@@ -31,6 +35,7 @@ class Cube : public Box {
  public:
   Cube(double edge_length) 
     : Box(edge_length, edge_length) {}
+  ~Cube() override {}
 };
 
 
