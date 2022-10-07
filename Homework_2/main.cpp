@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-#include "permutations_ii/sol.cpp"
+#include "subsets_ii/sol.cpp"
 
 int main() {
   int n;
@@ -12,7 +12,7 @@ int main() {
   }
 
   Solution sol;
-  auto ans = sol.permuteUnique(inp);
+  auto ans = sol.subsetsWithDup(inp);
   for (auto& ans_i: ans) {
     for (auto& x: ans_i) {
       std::cout << x << ' ';
