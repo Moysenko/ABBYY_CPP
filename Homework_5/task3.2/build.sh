@@ -1,0 +1,1 @@
+g++-11 -std=c++20 main.cpp -I /opt/homebrew/Cellar/boost/1.80.0/include -L /opt/homebrew/Cellar/boost/1.80.0/lib -o run
